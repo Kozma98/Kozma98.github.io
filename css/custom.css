@@ -92,7 +92,6 @@ footer {
 }
 
 
-
 /* Responsive Styling*/
 
 @media (min-width: 1199px)
@@ -134,10 +133,3 @@ footer {
 		font-size: 18px;
 	}
 
-	.get-involved p {
-		font-size: 18px;
-	}	
-
-	footer img {
-		width: 80%;
-	}
