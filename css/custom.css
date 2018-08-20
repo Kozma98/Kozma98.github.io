@@ -100,6 +100,10 @@ footer {
 		margin-bottom: 30px;
 	}
 
+    footer img {
+        width: 30%;
+    }
+
 @media (min-width: 991px)
 	 .jumbotron h1 {
 	 	font-size: 44px;
